@@ -1,10 +1,9 @@
-package com.parham.msu.criminal_intent11
+package com.parham.msu.criminal_intent_12
 
 import android.view.View
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.parham.msu.criminal_intent11.databinding.ListItemCrimePoliceBinding
-import java.text.SimpleDateFormat
+import com.parham.msu.criminal_intent_12.databinding.ListItemCrimePoliceBinding
 import android.text.format.DateFormat
 import java.util.*
 

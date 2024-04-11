@@ -1,4 +1,4 @@
-package com.parham.msu.criminal_intent11
+package com.parham.msu.criminal_intent_12
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

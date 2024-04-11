@@ -1,4 +1,4 @@
-package com.parham.msu.criminal_intent11
+package com.parham.msu.criminal_intent_12
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.core.widget.doOnTextChanged
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.parham.msu.criminal_intent11.databinding.FragmentCrimeDetailBinding
+import com.parham.msu.criminal_intent_12.databinding.FragmentCrimeDetailBinding
 import java.util.Date
 import java.util.UUID
 

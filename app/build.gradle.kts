@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.parham.msu.criminal_intent11"
+    namespace = "com.parham.msu.criminal_intent_12"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.parham.msu.criminal_intent_9"
+        applicationId = "com.parham.msu.criminal_intent_12"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

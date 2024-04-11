@@ -1,4 +1,4 @@
-package com.parham.msu.criminal_intent11
+package com.parham.msu.criminal_intent_12
 
 import android.os.Bundle
 import android.util.Log
@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.parham.msu.criminal_intent11.databinding.FragmentCrimeListBinding
+import com.parham.msu.criminal_intent_12.databinding.FragmentCrimeListBinding
 
 private const val TAG = "CrimeListFragment"
 class CrimeListFragment : Fragment() {

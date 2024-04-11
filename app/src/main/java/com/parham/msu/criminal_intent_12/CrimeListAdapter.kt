@@ -1,4 +1,4 @@
-package com.parham.msu.criminal_intent11
+package com.parham.msu.criminal_intent_12
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import android.text.format.DateFormat
 import androidx.recyclerview.widget.RecyclerView
-import com.parham.msu.criminal_intent11.databinding.ListItemCrimeBinding
-import com.parham.msu.criminal_intent11.databinding.ListItemCrimePoliceBinding
+import com.parham.msu.criminal_intent_12.databinding.ListItemCrimeBinding
+import com.parham.msu.criminal_intent_12.databinding.ListItemCrimePoliceBinding
 
 class CrimeHolder(
     val binding: ListItemCrimeBinding
