@@ -1,6 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.kapt")
 }
 
 android {
@@ -52,7 +53,7 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.4.1")
     implementation ("androidx.room:room-common:2.6.1")
     implementation ("androidx.room:room-ktx:2.6.1")
-    implementation ("androidx.room:room-compiler:2.6.1")
+    kapt ("androidx.room:room-compiler:2.6.1")
     testImplementation("junit:junit:4.12")
     testImplementation("junit:junit:4.12")
     debugImplementation ("androidx.fragment:fragment-testing:1.4.1")
